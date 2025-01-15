@@ -1,0 +1,1 @@
+Tehtävän projektissa on valmiina luokka `Piste`. Toteuta Pisteen perivät luokat `Varipiste` ja `Piste3d (tiedostoihin varipiste.rb ja piste3d.rb). Hyödynnä luokissa mahdollisimman paljon yläluokasta perittävää koodia. Huomaa, että yliluokan metodia tai konstruktoria kutsutaan viitteen `super` avulla. Luokkien haluttu toiminnallisuus selviää testeistä.
